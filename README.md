@@ -7,4 +7,4 @@ Gosto muito de criar aplicações web.
  <br/> :point_right: &nbsp; Hoje estou estudando: ReactJs, Javascript, NodeJs
  
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias em geral, games jogos de corrida e simulação
- <br/> :email: &nbsp; Entre em contato comigo: [Linkedin](https://www.linkedin.com/in/luan-oliveira-ab1859180/) &nbsp;&nbsp;|&nbsp;&nbsp;  [contato@luanmiqueias.com.br](mailto:luanmiqueias.com.br)
+ <br/> :email: &nbsp; Entre em contato comigo: [Linkedin](https://www.linkedin.com/in/luan-oliveira-ab1859180/) &nbsp;&nbsp;|&nbsp;&nbsp;  [contato@luanmiqueias.com.br](mailto:luanmiqueias92@gmail.com)
