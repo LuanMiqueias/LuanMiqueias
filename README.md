@@ -13,14 +13,18 @@ Gosto muito de criar aplicações web.
 
 ### 🚀 Skills
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=3271C5)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3271C5)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=3271C5)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=3271C5)
+![](https://img.shields.io/badge/Style-SCSS-informational?style=flat&logo=sass&logoColor=white&color=3271C5)
+![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=3271C5)
+![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=3271C5)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=3271C5)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=3271C5)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=3271C5)
+![](https://img.shields.io/badge/Backend-NodeJs-informational?style=flat&logo=Node.js&logoColor=white&color=3271C5)
+![](https://img.shields.io/badge/Backend-Mongodb-informational?style=flat&logo=Mongodb&logoColor=white&color=3271C5)
 
 ### 🌟 Github Status
 <div>
