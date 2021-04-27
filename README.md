@@ -3,7 +3,7 @@
 Gosto muito de criar aplicações web.
  &nbsp;Atualmente estudo para me tornar um desenvolvedor front-end!
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
- <br/> :point_right: &nbsp; Hoje estou estudando: ReactJs, Javascript, NodeJs
+ <br/> :point_right: &nbsp; Hoje estou estudando: ReactJS, NodeJS
  
  ### 💬 Sobre mim
  Tenho 19 anos sou formado em Tecnico informatica para internet, e sou apaixonado por tecnologia, meu principal objetivo e crescer na área de desenvolvimento, aprender novas linguagens, criar e participar de muitos projetos. Com o tempo muita dedicação eu chego lá. 
