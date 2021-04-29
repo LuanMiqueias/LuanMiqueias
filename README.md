@@ -6,7 +6,7 @@ Gosto muito de criar aplicações web.
  <br/> :point_right: &nbsp; Hoje estou estudando: ReactJS, NodeJS
  
  ### 💬 Sobre mim
- Tenho 19 anos sou formado em Tecnico informatica para internet, e sou apaixonado por tecnologia, meu principal objetivo e crescer na área de desenvolvimento, aprender novas linguagens, criar e participar de muitos projetos. Com o tempo muita dedicação eu chego lá. 
+ enho 19 anos sou formado em técnico de informática para internet, e sou apaixonado por tecnologia, meu principal objetivo e crescer na área de desenvolvimento, aprender novas linguagens, criar e participar de muitos projetos. Com o tempo muita dedicação eu chego lá! 
 
  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-oliveira-ab1859180/)
  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luanmiqueias92@gmail.com)
