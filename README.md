@@ -1,7 +1,7 @@
 
 ### 👋 Olá! eu sou o [Luan Miqueias](https://github.com/LuanMiqueias) - Desenvolvedor Front-end
 Gosto muito de criar aplicações web.
- &nbsp;Atualmente estudo para me tornar um desenvolvedor front-end!
+ &nbsp;Atualmente estudo front-end!
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
  <br/> :point_right: &nbsp; Hoje estou estudando: ReactJS, NodeJS
  
