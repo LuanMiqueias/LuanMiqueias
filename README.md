@@ -3,7 +3,7 @@
 Gosto muito de criar aplicações web.
  &nbsp;Atualmente estudo front-end!
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
- <br/> :point_right: &nbsp; Hoje estou estudando: NodeJS e IA
+ <br/> :point_right: &nbsp; Hoje estou estudando: Desenvolvimento Android e Kotlin
  
  ### 💬 Sobre mim
 Tenho 21 anos sou formado em técnico de informática para internet, e sou apaixonado por tecnologia, meu principal objetivo e crescer na área de desenvolvimento, aprender novas linguagens, criar e participar de muitos projetos.
@@ -12,7 +12,7 @@ Tenho 21 anos sou formado em técnico de informática para internet, e sou apaix
  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luanmiqueias92@gmail.com)
 
 ### 🚀 Skills
-
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=0077B5)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=0077B5)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=0077B5)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=0077B5)
