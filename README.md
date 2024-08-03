@@ -3,7 +3,7 @@
 Gosto muito de criar aplicações web.
  &nbsp;Atualmente estudo front-end!
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
- <br/> :point_right: &nbsp; Hoje estou estudando: Desenvolvimento Android e Kotlin
+ <br/> :point_right: &nbsp; Hoje estou estudando: Desenvolvimento NodeJS
  
  ### 💬 Sobre mim
 Tenho 21 anos sou formado em técnico de informática para internet, e sou apaixonado por tecnologia, meu principal objetivo e crescer na área de desenvolvimento, aprender novas linguagens, criar e participar de muitos projetos.
